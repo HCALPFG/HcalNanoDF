@@ -1,0 +1,9 @@
+<lcgdict>
+    <class name="hcalnano::HcalChannelInfo" persistent="false"/>
+    <class name="edm::Wrapper<hcalnano::HcalChannelInfo>"/>
+    <class name="hcalnano::HcalDIDList" persistent="false"/>
+    <class name="hcalnano::HcalEIDList" persistent="false"/>
+    <class name="std::map<HcalSubdetector, hcalnano::HcalDIDList>" persistent="false" />
+    <class name="std::map<HcalSubdetector, hcalnano::HcalEIDList>" persistent="false" />
+
+</lcgdict>
